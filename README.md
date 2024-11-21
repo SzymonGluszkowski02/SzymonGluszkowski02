@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SzymonGluszkowski02
+- 👋 Hi, I’m @SzymonGluszkowski
 - 👀 I’m interested in FD
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
